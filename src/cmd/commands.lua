@@ -834,32 +834,5 @@ add_command({
     section = "arena"
 })
 
-add_command({
-    name = "test",
-    execute = function(query)
-        utils.send_pages_menu_buttons(query, {
-            {
-                fields = {
-                    {
-                        name = "a",
-                        value = "a"
-                    }
-                }
-            },
-            {
-                fields = {
-                    {
-                        name = "b",
-                        value = "c"
-                    }
-                }
-            }
-        })
-    end,
-    description = "aa",
-    section = "misc",
-    prefix_only = true
-})
-
 return commands
 
