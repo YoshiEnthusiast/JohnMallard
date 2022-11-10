@@ -35,7 +35,7 @@ Dependencies:
 
 - [Luvit](https://github.com/luvit/luvit) — asyncronous environment for Lua
 - Lit packages:
-  - [Discordia](https://github.com/SinisterRectus/Discordia) — Discord API library. Discridia extensions:
+  - [Discordia](https://github.com/SinisterRectus/Discordia) — Discord API library. Discrodia extensions:
     - [discordia-components](https://github.com/Bilal2453/discordia-components)
     - [discordia-interactions](https://github.com/Bilal2453/discordia-interactions)
     - [discordia-slash](https://github.com/GitSparTV/discordia-slash)
