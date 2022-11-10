@@ -22,11 +22,11 @@ John Mallard also featutes:
 - Possibility to play in teams
 - A lot of helpful commands to make you arena experience better, for example: 
   - `whohosts` — determines the lobby host if your game has a conception of lobbies
-  - `forfeit` — skips the current match(needs to be used by all players in a channel)
+  - `forfeit` — skips the current match(needs to be used by all players in the channel)
 - Elo and total wins leaderboard
 - Ranking roles
 - Both slash and prefix commands support
-- Multiple server support
+- Multiple servers support
 - Moderation tools such as permission system and special channels assignment
 - A few misc commands
 
